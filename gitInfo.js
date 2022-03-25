@@ -55,7 +55,7 @@ const gitStatusDefinition = 'Shows modified files in working directory, staged f
 
 const gitAddDefinition = 'Add a file as it looks now to your next commit(stage).'
 
-const gitAddCode = 'git add [file]'
+const gitAddCode = 'git add .'
 
 //////////////////PROBLEM 7////////////////////
 /*
@@ -78,3 +78,5 @@ const gitCommitCode = 'git commit -m "descriptive message"'
 */
 
 const gitPushDefinition = 'Used to upload local repository content to a remote repository'
+
+//Used https://education.github.com/git-cheat-sheet-education.pdf as a resource
