@@ -31,3 +31,5 @@ const Design = "what it looks like, how the different peices will fit together"
 const Implementation = "write the code according to design"
 const Testing and Integration = "test it to see if it works, deploy it to make it accessible for others to use"
 const Maintain = "make sure its working properly and maintained regulary"
+
+//Used Software Development lecture with Scott as resource
