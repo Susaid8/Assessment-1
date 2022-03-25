@@ -55,7 +55,7 @@ const gitStatusDefinition = 'Shows modified files in working directory, staged f
 
 const gitAddDefinition = 'Add a file as it looks now to your next commit(stage).'
 
-const gitAddCode = 'git add [file]'
+const gitAddCode = 'git add .'
 
 //////////////////PROBLEM 7////////////////////
 /*
