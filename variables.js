@@ -8,7 +8,7 @@ console.log(myName)
 //////////////////PROBLEM 2////////////////////
 /* Create a variable called 'faveNum' with a value that is your favorite number. */
 
-var faveNum = 21
+let faveNum = 21
 console.log(faveNum)
 
 //////////////////PROBLEM 3////////////////////
@@ -35,6 +35,6 @@ if(faveNum === 13){
   Write a for loop that prints out your faveNum 5 times.
 */
 
-for(i=0; i < 5; i++){
+for(let i=0; i < 5; i++){
   console.log(faveNum)
 }

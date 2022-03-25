@@ -13,11 +13,11 @@ function CheckPassword(inputtxt)
 let password=  /^[A-Za-z]\w{10,20}$/;
 if(inputtxt.value.match(password)) 
 { 
-alert('You did it!')
+console.log('You did it!')
 }
 else
 { 
-alert('Please try again')
+console.log('Please try again')
 }
 }
 if(password.length >= 10){
@@ -25,6 +25,7 @@ if(password.length >= 10){
 }else{
     console.log('Failure')
 }
+reader.close()
 })
 
 
