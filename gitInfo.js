@@ -78,3 +78,5 @@ const gitCommitCode = 'git commit -m "descriptive message"'
 */
 
 const gitPushDefinition = 'Used to upload local repository content to a remote repository'
+
+//Used https://education.github.com/git-cheat-sheet-education.pdf as a resource
